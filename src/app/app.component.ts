@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Eyeopen Technologies, Welcome to All Again.';
+  title = 'All. Eyeopen Technologies Successfully achieved to deploy the first angular 4 project in production environment.';
 }
